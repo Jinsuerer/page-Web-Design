@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+/* header start */
+
+header{
+    background-color: cadetblue;
+    height:5rem ;
+    border-bottom: 2px solid  rgb(122, 73, 122);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1 rem;
+}
+
+
+/* header finisted */
