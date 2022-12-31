@@ -113,4 +113,36 @@ footer p{
    margin-bottom: 10px;
 }
 
+/* ------HOME PAGE END------ */
+/* ----------------------ABOUT PAGE START-------------------- */
+.about-content{
+    padding: 1.5rem 2.5rem;
+    display: flex;
+}
+.about-content h4{
+    padding-bottom: 2rem;
+}
+.about-content p{
+    line-height: 1.5rem;
+    padding: 1rem;
+}
+.about-content .set{
+    background-color: cadetblue;
+    color:azure ;
+    padding: 1rem;
 
+}
+.about-content .side-left{
+width: 70%;
+
+}
+.about-content .side-right{
+    width: 30%;
+    height: 200px;
+}
+
+/* footer about */
+.about-footer{
+  height: 100%;
+}
+ 
