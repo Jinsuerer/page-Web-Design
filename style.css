@@ -84,6 +84,20 @@ header .menü .active{
     border: none;
 }
 /* subscrite finisted */
+/* content start */
+.content{
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+.content .services img{
+    width: 75px;
+}
+.content .services h3{
+    padding: 1rem;
+}
 
 
 
