@@ -86,7 +86,7 @@ header .menü .active{
 /* subscrite finisted */
 /* content start */
 .content{
-    height: 250px;
+    height: 300px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -98,6 +98,19 @@ header .menü .active{
 .content .services h3{
     padding: 1rem;
 }
+/* content finisted */
 
+/* footer start */
+footer{
+    height: 125px;
+    background-color: cadetblue;
+    color: azure;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer p{
+   margin-bottom: 10px;
+}
 
 
