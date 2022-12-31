@@ -38,6 +38,18 @@ header .menü .active{
     color:  rgb(122, 73, 122);
     font-weight: bolder;
 }
-
-
 /* header finisted */
+
+/* bannel start */
+.banner{
+    height: 360px;
+    width: 100%;
+    background-image: url(./showcase.jpg);
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+
+
+/* bannel finisted */
