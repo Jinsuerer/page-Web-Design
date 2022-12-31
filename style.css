@@ -26,7 +26,7 @@ header .logo h1 span{
     color:  rgb(122, 73, 122);
 }
 /* header sag */
-header .menü a{
+header .menu a{
     text-decoration: none;
     font-size: 1rem;
     font-weight: 400;
@@ -34,7 +34,7 @@ header .menü a{
     padding: 0 1rem;
     text-transform: uppercase;
 }
-header .menü .active{
+header .menu .active{
     color:  rgb(122, 73, 122);
     font-weight: bolder;
 }
@@ -124,25 +124,44 @@ footer p{
 }
 .about-content p{
     line-height: 1.5rem;
-    padding: 1rem;
+    padding-bottom: 1rem;
 }
 .about-content .set{
     background-color: cadetblue;
-    color:azure ;
+    color: white;
     padding: 1rem;
-
 }
 .about-content .side-left{
-width: 70%;
-
+    width: 70%;
+    padding-right: 3rem;
 }
 .about-content .side-right{
     width: 30%;
-    height: 200px;
+    height: 400px;
 }
-
-/* footer about */
-.about-footer{
-  height: 100%;
+/* footer  */
+.about-content{
+    height: 100%;
 }
- 
+/* --------ABOUT PAGE END------ */
+/* --------SERVICES PAGE START------ */
+.side-right label{
+    display: block;
+}
+.side-right input, textarea{
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+.side-right button{
+    background-color: #e8491d;
+    color: white;
+    padding: .6rem .8rem;
+    border-style: none;
+}
+.side-left .lesson{
+    background-color: #e6e6e6;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    margin: 5px 0;
+}
